@@ -1,9 +1,18 @@
 # Kali-Missing-GPG-Key-for-Kali
 
-Clone this repository using: git clone <repository_url>
+This script helps resolve missing GPG key issues on Kali Linux systems.
 
-Change the file permissions: chmod +x file_name.sh
+## Requirements
+- Kali Linux
+- Git installed
+- Bash shell access
 
-Run the script in the Kali Linux terminal: bash file_name.sh
+## Installation & Usage
 
-Wait for some time, and the output will be displayed in the terminal.
+### 1. Clone the repository
+```bash
+git clone <repository_url>
+cd Kali-Missing-GPG-Key-for-Kali
+chmod +x file_name.sh
+bash file_name.shsudo bash file_name.sh
+
