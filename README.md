@@ -1,4 +1,4 @@
-# Kali-Missing-GPG-Key-for-Kal
+# Kali-Missing-GPG-Key-for-Kali
 
 This script helps resolve missing GPG key issues on Kali Linux systems.
 
